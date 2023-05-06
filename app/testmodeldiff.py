@@ -70,4 +70,4 @@ def predict():
     return jsonify(result)
 
 if __name__ == '__main__':
-    flaskapp.run(port=5000, debug=True)
+    flaskapp.run(debug=False, host='0.0.0.0')
