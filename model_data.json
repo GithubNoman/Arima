@@ -1,0 +1,5396 @@
+{
+    "user_id": "3344",
+    "age": 6,
+    "data": [
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-01",
+        "usage_time": 8
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-01",
+        "usage_time": 33
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-01",
+        "usage_time": 13
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-01",
+        "usage_time": 133
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-01",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-01",
+        "usage_time": 24
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-01",
+        "usage_time": 38
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-01",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-01",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-01",
+        "usage_time": 58
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-01",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-02",
+        "usage_time": 13
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-02",
+        "usage_time": 43
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-02",
+        "usage_time": 12
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-02",
+        "usage_time": 174
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-02",
+        "usage_time": 4
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-02",
+        "usage_time": 22
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-02",
+        "usage_time": 5
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-02",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-02",
+        "usage_time": 7
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-02",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-03",
+        "usage_time": 18
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-03",
+        "usage_time": 37
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-03",
+        "usage_time": 14
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-03",
+        "usage_time": 94
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-03",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-03",
+        "usage_time": 32
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-03",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-03",
+        "usage_time": 4
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-03",
+        "usage_time": 39
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-03",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-04",
+        "usage_time": 6
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-04",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-04",
+        "usage_time": 13
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-04",
+        "usage_time": 96
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-04",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-04",
+        "usage_time": 26
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-04",
+        "usage_time": 21
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-04",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-04",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-04",
+        "usage_time": 9
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-04",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-05",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-05",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-05",
+        "usage_time": 6
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-05",
+        "usage_time": 84
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-05",
+        "usage_time": 20
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-05",
+        "usage_time": 11
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-05",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-05",
+        "usage_time": 40
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-05",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-06",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-06",
+        "usage_time": 9
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-06",
+        "usage_time": 10
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-06",
+        "usage_time": 18
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-06",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-06",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-06",
+        "usage_time": 28
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-06",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-06",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-06",
+        "usage_time": 41
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-06",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-07",
+        "usage_time": 7
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-07",
+        "usage_time": 4
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-07",
+        "usage_time": 5
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-07",
+        "usage_time": 129
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-07",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-07",
+        "usage_time": 22
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-07",
+        "usage_time": 8
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-07",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-07",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-07",
+        "usage_time": 15
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-07",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-08",
+        "usage_time": 9
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-08",
+        "usage_time": 8
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-08",
+        "usage_time": 5
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-08",
+        "usage_time": 115
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-08",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-08",
+        "usage_time": 25
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-08",
+        "usage_time": 15
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-08",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-08",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-08",
+        "usage_time": 56
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-08",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-09",
+        "usage_time": 9
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-09",
+        "usage_time": 46
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-09",
+        "usage_time": 11
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-09",
+        "usage_time": 67
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-09",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-09",
+        "usage_time": 7
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-09",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-09",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-09",
+        "usage_time": 9
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-09",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-10",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-10",
+        "usage_time": 45
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-10",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-10",
+        "usage_time": 57
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-10",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-10",
+        "usage_time": 13
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-10",
+        "usage_time": 5
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-10",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-10",
+        "usage_time": 4
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-10",
+        "usage_time": 20
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-10",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-11",
+        "usage_time": 6
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-11",
+        "usage_time": 30
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-11",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-11",
+        "usage_time": 105
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-11",
+        "usage_time": 11
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-11",
+        "usage_time": 36
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-11",
+        "usage_time": 40
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-11",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-12",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-12",
+        "usage_time": 41
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-12",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-12",
+        "usage_time": 72
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-12",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-12",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-12",
+        "usage_time": 38
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-12",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-12",
+        "usage_time": 2
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-12",
+        "usage_time": 44
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-12",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-13",
+        "usage_time": 16
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-13",
+        "usage_time": 7
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-13",
+        "usage_time": 87
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-13",
+        "usage_time": 4
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-13",
+        "usage_time": 40
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-13",
+        "usage_time": 62
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-13",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.internet.speedtest.check.wifi.meter",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.youtube",
+        "Date": "2023-05-14",
+        "usage_time": 11
+      },
+      {
+        "pkg_name": "com.android.mediacenter",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "sinet.startup.inDriver",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.googlequicksearchbox",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.health",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hidisk",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.touchtype.swiftkey",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.docs",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.thememanager",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.hsf",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.intelligent",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.appmarket",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.search",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.honor.global",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.whatsapp",
+        "Date": "2023-05-14",
+        "usage_time": 35
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.sheets",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.totemweather",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs.editors.slides",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.gameassistant",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.messaging",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.discord",
+        "Date": "2023-05-14",
+        "usage_time": 18
+      },
+      {
+        "pkg_name": "com.techlogix.mobilinkcustomer",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.phoneservice",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.bykea.pk",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.himovie.overseas",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.KoBackup",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.vending",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.marvin.talkback",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.gpa.nust",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.reddit.frontpage",
+        "Date": "2023-05-14",
+        "usage_time": 123
+      },
+      {
+        "pkg_name": "com.huawei.hwid",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.tips",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.gm",
+        "Date": "2023-05-14",
+        "usage_time": 3
+      },
+      {
+        "pkg_name": "com.google.android.apps.tachyon",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.backflipstudios.transformersearthwars",
+        "Date": "2023-05-14",
+        "usage_time": 18
+      },
+      {
+        "pkg_name": "com.google.android.music",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.browser",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.fanzetech.quran.pak",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.zong.customercare",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.hicloud.android.clone",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.twitter.android",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.docs",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.apps.maps",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.modulemetadata",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.webview",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "host.exp.exponent",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.android.chrome",
+        "Date": "2023-05-14",
+        "usage_time": 48
+      },
+      {
+        "pkg_name": "com.google.android.gms",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.ims",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.tts",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "tv.twitch.android.app",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.mcb.mcblive",
+        "Date": "2023-05-14",
+        "usage_time": 1
+      },
+      {
+        "pkg_name": "com.google.android.apps.photos",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.calendar",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hicloud",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hisuite",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hitouch",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.ubercab",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.sadapay.app",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.example.pcrs",
+        "Date": "2023-05-14",
+        "usage_time": 21
+      },
+      {
+        "pkg_name": "com.hbl.android.hblmobilebanking",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.facebook.orca",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.linkedin.android",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.projection.gearhead",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.android.pushagent",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "pk.com.telenor.phoenix",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.techhord.kainattravels",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.wordwebsoftware.android.wordweb",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.scanner",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.careem.acma",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.intsig.camscanner",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.kiloo.subwaysurf",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.huawei.hwdetectrepair",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.nayapay.app",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.google.android.play.games",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      },
+      {
+        "pkg_name": "com.microsoft.teams",
+        "Date": "2023-05-14",
+        "usage_time": 0
+      }
+    ]
+  }
